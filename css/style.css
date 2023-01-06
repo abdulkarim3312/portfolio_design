@@ -504,11 +504,14 @@ header::before {
     content: "85%";
 }
 
-.progress-line.python span::after {
+.progress-line.laravel span::after {
     content: "50%";
 }
 
 .progress-line.mysql span::after {
+    content: "75%";
+}
+.progress-line.ajax span::after {
     content: "75%";
 }
 
